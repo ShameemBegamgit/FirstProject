@@ -1,0 +1,27 @@
+div {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black
+    margin-bottom: 5px;
+}
+.yellow{
+    background-color: yellow;
+    color: darkred;
+    font-size: xx-large;
+}
+.green{
+    background-color: red;
+    color: blue;
+    font-size: x-large;
+}
+.red{
+    background-color: magenta;
+    color: chartreuse;
+    font-size: xx-large;
+}
+.magenta{
+    background-color: pink;
+    color: blueviolet;
+    font-size: x-large;
+}
